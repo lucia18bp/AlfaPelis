@@ -1,0 +1,236 @@
+body{
+    margin: 0px;
+    text-align: center;
+    padding: 0;
+	list-style: none;
+    background-color: rgb(14, 5, 53);
+}
+.headerp{
+    background-color: rgb(0, 0, 0);
+    height: 65px;
+    font-family: "Arial Black";
+}
+.nav{
+    height: 60px;
+    color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#imgh{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 60px;
+} 
+
+#inicio{
+    display: inline;
+    font-size: 30px;
+    position: absolute;
+    left: 135px;
+    color: white;
+    margin-top: 13px;
+}
+
+.ps{
+    background-color: rgb(14, 5, 53);
+    width: 35%;
+    height: 950px;
+    float: left;
+    position: relative;
+}
+.ss{
+    background-color: rgb(14, 5, 53);
+    width: 65%; 
+    height: 950px; 
+    float: right;
+    position: relative;
+}
+.uf{
+    position: fixed;
+	width: 100%;
+	height: 50px;
+	bottom:0;
+	background: black;
+	z-index: 1;
+}
+.h{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 60px;
+    color:antiquewhite;
+    font-size: 20px;
+    overflow: hidden;
+}
+.ap{
+height:490px;
+width: 90%;
+margin-right: auto;
+margin-left: auto;
+}
+.as{
+height: 300px;
+width: 90%;
+margin-right: auto;
+margin-left: auto;  
+}
+.foo{
+    margin-right: auto;
+    margin-left: auto;
+    height: 20px;
+    width: 90%;
+    font-family: "Arial Black";
+    font-size: 15px;
+    color:antiquewhite;
+    overflow: hidden;
+}
+.heasub{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;  
+    color:antiquewhite;
+    text-align: left;
+    font-size: 20px;
+    
+}
+.spp{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 160px;  
+    text-align: left;
+    overflow: hidden;
+    font-size: 15px;
+    color:antiquewhite;
+    font-family: "Arial Black";
+}
+.ppp{
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    height: 190px; 
+    text-align:left;
+    font-family: "Arial Black";
+    font-size: 15px;
+    color:antiquewhite;
+    overflow: hidden;
+
+}
+#imgp1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 545px;
+}
+.ft{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 20px;
+    font-family: "Arial Black";
+    font-size: 15px;
+    color:antiquewhite;
+    overflow: hidden;
+}
+.fter{
+    margin-right: auto;
+    margin-left: auto;
+    height: 20px;
+    margin-top: 150px;
+    width: 90%;
+    font-family: "Arial Black";
+    font-size: 15px;
+    color:antiquewhite;
+    overflow: hidden;
+} 
+#hss{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;   
+    color:antiquewhite;
+    /* font-family: arial; */
+    text-align: left;
+    font-size: 20px;
+}
+
+.headerSubtitulo{
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+height: 60px;
+overflow: hidden;
+/* font-family: verdana; */
+font-size: 20px;
+color:antiquewhite;
+text-align:left;
+}
+.menus{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 338px;
+}
+.footerp{
+    margin-left: 130px;
+    margin-right: auto;
+    width: 20%;
+    height: 20px;
+    text-align:right;
+    font-family: "Arial Black";
+    font-size: 15px;
+    color:antiquewhite;
+
+}
+.parrafo{
+    width: 43%;
+    margin-left: 40px;
+    height: 60px;
+    height: 160px;  
+    text-align: left;
+    overflow: hidden;
+    font-size: 15px;
+    color: white;
+    float: left;  
+    font-family:"Arial Black";
+}
+.aside{
+    width: 43%;
+    margin-left: 33px;
+    height: 160px;  
+    float: left;
+} 
+#imgf{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    opacity:0.5;
+} 
+
+#iniciof{
+    display: inline;
+    font-size: 25px;
+    position: absolute;
+    left: 125px;
+    color: white;
+    margin-top: 8px;
+    opacity: 0.5;
+    font-family: "Arial Black";
+}
+#ul li{
+position: relative;
+list-style: none;
+text-align:left;
+font-family: "Arial Black";
+font-size: 15px;
+color:antiquewhite;
+text-decoration: underline;
+}
+#imgp2{
+    width: 150px;
+    height: 150px;
+}
